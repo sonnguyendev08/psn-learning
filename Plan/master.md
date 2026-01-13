@@ -1,3 +1,43 @@
+# Topics:
+## Programming
+- Java Core
+- JVM
+- Spring Boot
+- Build tools Gradle + Maven
+- Multithread
+- AOP
+- OOP
+- Solid
+- Design Patterns
+- Kafka
+- Testing
+- Code Reviews
+- ReactJS
+- Typescript
+- AWS Certification.
+- Database (PostgreSQL)
+- Restful APIs
+- 150 Neetcode
+- System Design
+- Tracing and Monitoring
+- Logging
+- AI prompt
+## English
+- Colocation.
+- 4000 IELTS words.
+- 1100 words.
+- Blending sounds
+- Tongue Twister.
+## Social
+- Maps
+- MindMap
+- Geography
+- Motobike
+- Car
+- Famous Places
+
+
+
 # Start 01/10/2025 - End 31/03/2026
 + Learn Thinking
 + Learn Technical Skills
